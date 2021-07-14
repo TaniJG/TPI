@@ -18,7 +18,7 @@ h3 {
 }
 
 .img1 {
-  width: 315px;
+  width: 100%;
   height: 400px;
 }
 
@@ -38,13 +38,13 @@ li {
 }
 
 .img2 {
-  width: 300px;
+  width: 100%;
   height: 200px;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-left: 25px;
+  padding-right: 15px;
 }
 
 .img3 {
@@ -68,16 +68,15 @@ footer {
 }
 
 .img4 {
-  width: 50px;
-  height: 50px;
+    width: 50px;
+    height: 50px;
 }
-
 .di {
   display: inline-block;
 }
 
 .img5 {
-  width: 175px;
+  width: 100%;
   height: 175px;
   display: flex;
   align-items: center;
@@ -101,4 +100,16 @@ footer {
 
 #ul {
   list-style-type: none;
+}
+
+.cimg0 .cimg1 .cimg2 .cimg3 .cimg4 {
+    width: 100%;
+}
+
+.algo {
+    margin-left: 20%;
+} 
+
+.asa {
+    margin-right: 15%;
 }
