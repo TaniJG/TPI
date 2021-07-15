@@ -1,6 +1,7 @@
 body {
   width: 100vw;
   height: 100vh;
+  margin: 0%;
 }
 
 h3 {
@@ -68,12 +69,12 @@ footer {
 }
 
 .img4 {
-    width: 50px;
-    height: 50px;
+  width: 50px;
+  height: 50px;
 }
 .di {
   display: inline-block;
-}
+} 
 
 .img5 {
   width: 100%;
@@ -103,13 +104,13 @@ footer {
 }
 
 .cimg0 .cimg1 .cimg2 .cimg3 .cimg4 {
-    width: 100%;
+  width: 100%;
 }
 
 .algo {
-    margin-left: 20%;
-} 
+  margin-left: 20%;
+}
 
 .asa {
-    margin-right: 15%;
+  margin-right: 15%;
 }
